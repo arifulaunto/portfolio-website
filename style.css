@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  font-family: "Roboto Slab", serif;
+}
+.name {
+  color: #694bdb;
+}
+.header-part {
+  width: 45%;
+  margin: 13px;
+  padding: 18px;
+  float: left;
+}
+.header-part img {
+  width: 95%;
+}
+.top-banner {
+  background: url(images/developer-portfolio/top-banner.png);
+  background-repeat: no-repeat;
+}
+section {
+  height: 500px;
+}
