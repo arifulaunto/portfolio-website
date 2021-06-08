@@ -2,8 +2,9 @@ body {
   margin: 0px;
   font-family: "Roboto Slab", serif;
 }
+/* header part start */
 .name {
-  color: #694bdb;
+  color: #6c48da;
 }
 .header-part {
   width: 45%;
@@ -21,3 +22,31 @@ body {
 section {
   height: 500px;
 }
+
+.header-image {
+  text-decoration: none;
+  background-color: #6c48da;
+  color: white;
+  padding: 10px 20px;
+  font-size: 700;
+}
+/* header part End */
+.header-tittle {
+  text-align: center;
+  color: #2a292a;
+}
+/* second Banner start */
+.Web {
+  width: 40%;
+  margin: 13px;
+  padding: 18px;
+  float: left;
+}
+.Web-btn {
+  text-decoration: none;
+  background-color: #6c48da;
+  color: white;
+  padding: 10px 20px;
+  font-size: 700;
+}
+/* second part end */
