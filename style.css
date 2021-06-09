@@ -20,7 +20,7 @@ body {
   background-repeat: no-repeat;
 }
 section {
-  height: 500px;
+  height: 400px;
 }
 
 .header-image {
@@ -36,7 +36,7 @@ section {
   color: #2a292a;
 }
 /* second Banner start */
-.Web {
+.Web-area {
   width: 40%;
   margin: 13px;
   padding: 18px;
@@ -49,4 +49,38 @@ section {
   padding: 10px 20px;
   font-size: 700;
 }
+.services-area {
+  box-shadow: 10px 10px 25px #af9aec;
+  border-radius: 5px;
+  margin-left: 10px;
+}
 /* second part end */
+/* third part start */
+.edu {
+  width: 30%;
+  float: left;
+  margin: 3px;
+  padding: 10px;
+}
+
+/* final part*/
+.final {
+  text-align: center;
+  text-decoration: rgb(28, 28, 32);
+  margin-top: 15px;
+}
+
+.last-btn {
+  text-align: left;
+  text-decoration: none;
+  margin-left: 557px;
+  font-size: 19px;
+  color: black;
+  background-color: #af9aec;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.footer {
+  text-align: center;
+}
